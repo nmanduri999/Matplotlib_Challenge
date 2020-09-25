@@ -50,5 +50,5 @@ Here are some final considerations:
 
 ## Solution
 
-### Generate a summary statistics table of mean, median, variance, standard deviation, and SEM of the tumor volume for each regimen
+* Generate a summary statistics table of mean, median, variance, standard deviation, and SEM of the tumor volume for each regimen
 
