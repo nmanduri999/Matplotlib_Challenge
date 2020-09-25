@@ -58,3 +58,5 @@ Here are some final considerations:
 
 * Generate a bar plot showing number of data points for each treatment regimen using pyplot
 ![](Images/Drugcount.PNG)
+
+* Generate a pie plot showing the distribution of female versus male mice using pandas
