@@ -62,3 +62,5 @@ Here are some final considerations:
 * Generate a pie plot showing the distribution of female versus male mice using pandas
 
 * Generate a pie plot showing the distribution of female versus male mice using pyplot
+
+* Generate a box plot of the final tumor volume of each mouse across four regimens of interest
