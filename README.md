@@ -68,3 +68,5 @@ Here are some final considerations:
 * Generate a line plot of time point versus tumor volume for a single mouse treated with Capomulin.
 
 * Generate a scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen.
+
+* Calculate the correlation coefficient and linear regression model for mouse weight and average tumor volume for the Capomulin regimen
