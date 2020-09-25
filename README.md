@@ -66,7 +66,7 @@ Here are some final considerations:
 ![](Images/piepyplot.PNG)
 
 * Generate a box plot of the final tumor volume of each mouse across four regimens of interest
-
+![](Images/piepyplot.PNG)
 * Generate a line plot of time point versus tumor volume for a single mouse treated with Capomulin.
 
 * Generate a scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen.
