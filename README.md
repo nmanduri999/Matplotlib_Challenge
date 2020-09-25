@@ -52,23 +52,18 @@ Here are some final considerations:
 
 * Generate a summary statistics table of mean, median, variance, standard deviation, and SEM of the tumor volume for each regimen
 ![](Images/Summarstats.PNG)
-
 * Generate a bar plot showing number of data points for each treatment regimen using pandas
 ![](Images/Drugregimen.PNG)
-
 * Generate a bar plot showing number of data points for each treatment regimen using pyplot
 ![](Images/Drugcount.PNG)
-
 * Generate a pie plot showing the distribution of female versus male mice using pandas
 ![](Images/PiePandas.PNG)
-
 * Generate a pie plot showing the distribution of female versus male mice using pyplot
 ![](Images/piepyplot.PNG)
-
 * Generate a box plot of the final tumor volume of each mouse across four regimens of interest
 ![](Images/BoxPlot.PNG)
 * Generate a line plot of time point versus tumor volume for a single mouse treated with Capomulin.
-
+![](Images/LinePlot.PNG)
 * Generate a scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen.
 
 * Calculate the correlation coefficient and linear regression model for mouse weight and average tumor volume for the Capomulin regimen
