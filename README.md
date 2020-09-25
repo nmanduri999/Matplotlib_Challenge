@@ -48,7 +48,3 @@ Here are some final considerations:
 
 * See the [starter workbook](Pymaceuticals/pymaceuticals_starter.ipynb) for help on what modules to import and expected format of the notebook.
 
-
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
