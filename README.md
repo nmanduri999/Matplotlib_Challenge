@@ -60,3 +60,5 @@ Here are some final considerations:
 ![](Images/Drugcount.PNG)
 
 * Generate a pie plot showing the distribution of female versus male mice using pandas
+
+* Generate a pie plot showing the distribution of female versus male mice using pyplot
