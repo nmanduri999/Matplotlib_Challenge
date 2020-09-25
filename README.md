@@ -57,3 +57,4 @@ Here are some final considerations:
 ![](Images/Drugregimen.png)
 
 * Generate a bar plot showing number of data points for each treatment regimen using pyplot
+![](Images/Drugcount.png)
