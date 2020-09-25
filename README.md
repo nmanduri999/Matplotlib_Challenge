@@ -50,3 +50,4 @@ Here are some final considerations:
 
 ## Solution
 
+# Summary statistics
