@@ -52,3 +52,5 @@ Here are some final considerations:
 
 * Generate a summary statistics table of mean, median, variance, standard deviation, and SEM of the tumor volume for each regimen
 ![](Images/Summarstats.png)
+
+* Generate a bar plot showing number of data points for each treatment regimen using pandas
