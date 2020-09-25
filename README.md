@@ -54,3 +54,4 @@ Here are some final considerations:
 ![](Images/Summarstats.png)
 
 * Generate a bar plot showing number of data points for each treatment regimen using pandas
+![](Images/Drugregimen.png)
